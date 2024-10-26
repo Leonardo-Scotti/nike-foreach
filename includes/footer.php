@@ -42,8 +42,7 @@
                 <li>Termos de Uso</li>
             </ul>
             <ul>
-                <li>Nike in PHP - Educational Project by <a href="https://flavioricardo.com.br" target="_blank">Flavio
-                        Ricardo</a>
+                <li>Nike in PHP - Educational Project by <a href="https://leonardo-scotti.github.io/portfolio-page/" target="_blank">Leonardo Scotti</a>
                 </li>
             </ul>
         </div>

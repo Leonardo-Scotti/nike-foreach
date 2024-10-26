@@ -2,20 +2,20 @@
 $produtos = [
     [
         'nome' => ' Tênis Nike Air Max Flyknit Racer Feminino',
-        'modelo' => 'air-max-flyknit-racer-',
+        'modelo' => 'air-max-flyknit-racer',
         'categoria' => 'Corrida',
-        'preco' => '1.315.99',
-        'desconto' => '6',
+        'preco' => '1315.00',
+        'desconto' => '5',
         'cores' => ['cinza'],
         'tamanhos' => [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
 
     ],
     [
         'nome' => 'Tênis Nike Air Max SYSTM Feminino',
-        'modelo' => 'air-max-systm-',
+        'modelo' => 'air-max-systm',
         'categoria' => 'Casual',
         'preco' => '434.99',
-        'desconto' => '42',
+        'desconto' => '5',
         'cores' => ['bege', 'preto'],
         'tamanhos' => [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
 
@@ -25,7 +25,7 @@ $produtos = [
         'modelo' => 'dunk-low',
         'categoria' => 'Casual',
         'preco' => '899.99',
-        'desconto' => 25,
+        'desconto' => '5',
         'cores' => ['blue-paisley'],
         'tamanhos' => [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
     ],
@@ -43,8 +43,8 @@ $produtos = [
         'nome' => 'Tênis Nike Juniper Trai 2 GORE-TEX Masculino',
         'modelo' => 'juniper-trail-2-gore-tex',
         'categoria' => 'Corrida',
-        'preco' => '1.215.99',
-        'desconto' => '24',
+        'preco' => '1215.99',
+        'desconto' => '5',
         'cores' => ['branco', 'cinza'],
         'tamanhos'=> [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
     ],
@@ -53,7 +53,7 @@ $produtos = [
         'modelo' => 'metcon-9',
         'categoria' => 'Treino & Academia',
         'preco' => '983.99',
-        'desconto' => '18',
+        'desconto' => '5',
         'cores' => ['preto', 'vermelho'],
         'tamanhos'=> [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
     ],
@@ -62,7 +62,7 @@ $produtos = [
         'modelo' => 'pegasus-40-premium',
         'categoria' => 'Corrida',
         'preco' => '681.99',
-        'desconto' => '38',
+        'desconto' => '5',
         'cores' => ['rosa'],
         'tamanhos'=> [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
     ],
@@ -70,7 +70,7 @@ $produtos = [
         'nome' => 'Chuteira Nike Phantom GT2 Elite SG Pro Campo',
         'modelo' => 'phantom-gt2-elite',
         'categoria' =>'Campo',
-        'preco' => '1.899.99',
+        'preco' => '1899.99',
         'desconto' => '5',
         'cores' => ['azul', 'cinza', 'preto'],
         'tamanhos'=> [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
@@ -98,7 +98,7 @@ $produtos = [
         'modelo' => 'terminator-high',
         'categoria' => 'Casual',
         'preco' => '659.99',
-        'desconto' => '34',
+        'desconto' => '5',
         'cores' => ['bege', 'cinza'],
         'tamanhos'=> [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
     ],
@@ -106,8 +106,8 @@ $produtos = [
         'nome' => 'Chuteira Nike Tiempo Legend 9 Elite Campo',
         'modelo' => 'tiempo-legend-9',
         'categoria' => 'Campo',
-        'preco' => '1.419.99',
-        'desconto' => '29',
+        'preco' => '1419.99',
+        'desconto' => '5',
         'cores' => ['branco', 'preto'],
         'tamanhos'=> [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
     ],
@@ -115,8 +115,8 @@ $produtos = [
         'nome' => 'Tênis Nike Zoom Fly 5 Feminino',
         'modelo' => 'zoom-fly-5',
         'categoria' => 'Corrida',
-        'preco' => '1.000.99',
-        'desconto' => '23',
+        'preco' => '1000.99',
+        'desconto' => '5',
         'cores' => ['branco', 'roxo'],
         'tamanhos'=> [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
     ],
@@ -125,7 +125,7 @@ $produtos = [
         'modelo' => 'zoom-rotational-6',
         'categoria' => 'Corrida',
         'preco' => '620.49',
-        'desconto' => '27',
+        'desconto' => '5',
         'cores' => ['preto', 'azul'],
         'tamanhos'=> [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
     ],
@@ -133,8 +133,8 @@ $produtos = [
         'nome' => 'Chuteira Nike Zoom Superfly 9 Elite KM Campo',
         'modelo' => 'zoom-superfly-9',
         'categoria' => 'Campo',
-        'preco' => '1.624.99',
-        'desconto' => '35',
+        'preco' => '1624.99',
+        'desconto' => '5',
         'cores' => ['azul'],
         'tamanhos'=> [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
     ],
@@ -142,8 +142,8 @@ $produtos = [
         'nome' => 'Tênis Nike Zoom Vapor Cage 4 Rafa Masculino',
         'modelo' => 'zoom-vapor-cage-4-rafa',
         'categoria' => 'Jogar Tênis',
-        'preco' => '1.169.99',
-        'desconto' => '22',
+        'preco' => '1169.99',
+        'desconto' => '5',
         'cores' => ['amarelo', 'branco'],
         'tamanhos'=> [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
     ]
