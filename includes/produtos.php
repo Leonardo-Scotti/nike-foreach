@@ -7,7 +7,7 @@ $produtos = [
         'preco' => '1315.00',
         'desconto' => '5',
         'cores' => ['cinza'],
-        'tamanhos' => [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
+        'tamanhos' => [35, 36, 38, 39, 40, 41, 43, 44]
 
     ],
     [
@@ -17,7 +17,7 @@ $produtos = [
         'preco' => '434.99',
         'desconto' => '5',
         'cores' => ['bege', 'preto'],
-        'tamanhos' => [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
+        'tamanhos' => [35, 36, 37, 39, 40, 41, 42, 44]
 
     ],
     [
@@ -27,7 +27,7 @@ $produtos = [
         'preco' => '899.99',
         'desconto' => '5',
         'cores' => ['blue-paisley'],
-        'tamanhos' => [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
+        'tamanhos' => [35, 36, 37, 38, 40, 41, 42, 43, 44]
     ],
     [
         'nome' => 'Tênis Jordan Series Feminino',
@@ -36,7 +36,7 @@ $produtos = [
         'preco' => '759.99',
         'desconto' => '5',
         'cores' => ['verde'],
-        'tamanhos' => [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
+        'tamanhos' => [35, 36, 37, 38, 39, 40, 43, 44]
         
     ],
     [
@@ -46,7 +46,7 @@ $produtos = [
         'preco' => '1215.99',
         'desconto' => '5',
         'cores' => ['branco', 'cinza'],
-        'tamanhos'=> [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
+        'tamanhos'=> [35, 36, 40, 41, 42, 43, 44]
     ],
     [
         'nome' => 'Tênis Nike Metcon 8 Masculino',
@@ -64,7 +64,7 @@ $produtos = [
         'preco' => '681.99',
         'desconto' => '5',
         'cores' => ['rosa'],
-        'tamanhos'=> [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
+        'tamanhos'=> [37, 38, 39, 40, 41, 42]
     ],
     [
         'nome' => 'Chuteira Nike Phantom GT2 Elite SG Pro Campo',
@@ -73,7 +73,7 @@ $produtos = [
         'preco' => '1899.99',
         'desconto' => '5',
         'cores' => ['azul', 'cinza', 'preto'],
-        'tamanhos'=> [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
+        'tamanhos'=> [35, 36, 42, 43, 44]
     ],
     [
         'nome' => 'Tênis Nike React Infinity Run FK 3 Feminino',
@@ -82,7 +82,7 @@ $produtos = [
         'preco' => '949.99',
         'desconto' => '5',
         'cores' => ['rosa'],
-        'tamanhos'=> [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
+        'tamanhos'=> [35, 36, 37, 38, 43, 44]
     ],
     [
         'nome' => 'Tênis Nike Renew In-Season TR 12 Feminino',
@@ -91,7 +91,7 @@ $produtos = [
         'preco' => '617.49',
         'desconto' => '5',
         'cores' => ['Cinza', 'preto'],
-        'tamanhos'=> [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
+        'tamanhos'=> [35, 36, 39, 40, 41, 42]
     ],
     [
         'nome' => 'Tênis Nike Terminator High',
@@ -100,7 +100,7 @@ $produtos = [
         'preco' => '659.99',
         'desconto' => '5',
         'cores' => ['bege', 'cinza'],
-        'tamanhos'=> [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
+        'tamanhos'=> [35, 36, 37, 42, 43, 44]
     ],
     [
         'nome' => 'Chuteira Nike Tiempo Legend 9 Elite Campo',
@@ -109,7 +109,7 @@ $produtos = [
         'preco' => '1419.99',
         'desconto' => '5',
         'cores' => ['branco', 'preto'],
-        'tamanhos'=> [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
+        'tamanhos'=> [35, 36, 40, 41, 42, 43, 44]
     ],
     [
         'nome' => 'Tênis Nike Zoom Fly 5 Feminino',
@@ -118,7 +118,7 @@ $produtos = [
         'preco' => '1000.99',
         'desconto' => '5',
         'cores' => ['branco', 'roxo'],
-        'tamanhos'=> [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
+        'tamanhos'=> [35, 36, 37, 38, 39, 40, 41]
     ],
     [
         'nome' => 'Tênis Nike Zoom Rotational 6 Unissex',
@@ -127,7 +127,7 @@ $produtos = [
         'preco' => '620.49',
         'desconto' => '5',
         'cores' => ['preto', 'azul'],
-        'tamanhos'=> [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
+        'tamanhos'=> [35, 41, 42, 43, 44]
     ],
     [
         'nome' => 'Chuteira Nike Zoom Superfly 9 Elite KM Campo',
@@ -136,7 +136,7 @@ $produtos = [
         'preco' => '1624.99',
         'desconto' => '5',
         'cores' => ['azul'],
-        'tamanhos'=> [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
+        'tamanhos'=> [35, 36, 42, 43, 44]
     ],
     [
         'nome' => 'Tênis Nike Zoom Vapor Cage 4 Rafa Masculino',
@@ -145,7 +145,7 @@ $produtos = [
         'preco' => '1169.99',
         'desconto' => '5',
         'cores' => ['amarelo', 'branco'],
-        'tamanhos'=> [35, 36, 37, 38, 39, 40, 41, 42, 43, 44]
+        'tamanhos'=> [35, 36, 37, 43, 44]
     ]
     ];
 

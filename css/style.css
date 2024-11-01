@@ -150,7 +150,7 @@ main {
 .product {
     width: 100%;
     display: flex;
-    gap: 16px;
+    gap: 20px;
 }
 
 .product-img,

@@ -16,7 +16,7 @@ foreach($produtos as $id => $produto){
             <div class="prod-price">
                 <div>
                     <span class="price-current">
-                        R$ <?= $produto['preco'] - (($produto['preco'] / 100) * $produto['desconto']); ?>
+                        R$ <?= price($produto['preco']); ?>
                     </span>
                     <span class="payment">no Pix</span>
                 </div>
